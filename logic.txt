@@ -1,0 +1,8 @@
+State of the button
+
+1. Access the button
+-> query all selector favoriteicon
+-> output is a NodeList, we can iterrate over it
+
+2. {1,2,3}
+-> To each item(each element of the NodeList) we should add an event listener
