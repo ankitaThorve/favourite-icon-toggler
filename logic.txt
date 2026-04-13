@@ -6,3 +6,8 @@ State of the button
 
 2. {1,2,3}
 -> To each item(each element of the NodeList) we should add an event listener
+
+--------------------------
+
+Select button
+Check if button is clicked - if filled then unfilled and vice versa
