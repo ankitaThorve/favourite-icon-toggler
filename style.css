@@ -1,25 +1,8 @@
-* {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
-  font-family: "Times New Roman", Times, serif;
-}
-
-main{
-  display: flex;
-  /* place-items: center; */
-  justify-content: center;
-  align-items: center;
-  /* min-height: 100vh; */
-  margin: 0;
-  padding: 0;
-}
-
-ul {
-  list-style-type: none;
-}
-
-button {
+.favorite-icon{
+  background: none;
   border: none;
-  background-color: none;
+  font-size: 24px;
+  cursor: pointer;
+  color: #aaa;
+  transition: all 0.3s ease;
 }
